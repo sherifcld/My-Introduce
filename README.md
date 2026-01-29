@@ -30,7 +30,7 @@ Saya Sherif, fokus di keamanan siber, pengembangan, dan infrastruktur. Saya bias
 - Menyiapkan playbook respons insiden ringan agar tim non-security bisa bertindak cepat.
 
 ## Hubungi
-- Email utama: 	<a href="mailto:founder@sherifstar.tech" target="_blank" rel="noreferrer noopener">
+<a href="mailto:founder@sherifstar.tech" target="_blank" rel="noreferrer noopener">
 		<img alt="Hubungi via Email" src="https://img.shields.io/badge/Email-founder@sherifstar.tech-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 - Siap diskusi soal keamanan aplikasi, audit ringan, kolaborasi pengembangan, atau konsultasi infrastruktur.
