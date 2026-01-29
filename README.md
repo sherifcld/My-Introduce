@@ -33,4 +33,6 @@ Saya Sherif, fokus di keamanan siber, pengembangan, dan infrastruktur. Saya bias
 <a href="mailto:founder@sherifstar.tech" target="_blank" rel="noreferrer noopener">
 		<img alt="Hubungi via Email" src="https://img.shields.io/badge/Email-founder@sherifstar.tech-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-- Siap diskusi soal keamanan aplikasi, audit ringan, kolaborasi pengembangan, atau konsultasi infrastruktur.
+	
+	
+Siap diskusi soal keamanan aplikasi, audit ringan, kolaborasi pengembangan, atau konsultasi infrastruktur.
