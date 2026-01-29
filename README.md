@@ -31,6 +31,5 @@ Saya Sherif, fokus di keamanan siber, pengembangan, dan infrastruktur. Saya bias
 
 ## Hubungi
 - Email utama: <a href="mailto:founder@sherifstar.tech?subject=Kolaborasi%20Cyber%20Security%20%7C%20Dev" target="_blank" rel="noreferrer noopener">
- <img alt="Ajak Kolaborasi" src="https://img.shields.io/badge/Ajak%20Kolaborasi-Cyber%20Security%20%7C%20Dev-0b7bff?style=for-the-badge&logo=github&logoColor=white" />
-	</a>
+		<img alt="Ajak Kolaborasi" src="https://img.shields.io/badge/Ajak%20Kolaborasi-Cyber%20Security%20%7C%20Dev-0b7bff?style=for-the-badge&logo=github&logoColor=white" />
 - Siap diskusi soal keamanan aplikasi, audit ringan, kolaborasi pengembangan, atau konsultasi infrastruktur.
